@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 # Formulário de Feedback com useState (React)
 
 Projeto React para praticar o uso do hook **useState** na criação de um formulário controlado e interativo.
+<img width="3814" height="1960" alt="Captura de tela 2026-01-07 163954" src="https://github.com/user-attachments/assets/8e75102a-f803-4c50-883a-18e8d30ba220" />
 
 ## Objetivo
 - Gerenciar estado de campos de formulário com `useState`
@@ -41,6 +42,4 @@ Projeto React para praticar o uso do hook **useState** na criação de um formul
 
 ## Autor
 Jardheson Oliveira
-=======
 
->>>>>>> 0b6b8ba1ca84e64fa2aa3232b586e5fd60b8692d
