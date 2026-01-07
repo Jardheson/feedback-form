@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Formulário de Feedback com useState (React)
 
 Projeto React para praticar o uso do hook **useState** na criação de um formulário controlado e interativo.
@@ -40,3 +41,6 @@ Projeto React para praticar o uso do hook **useState** na criação de um formul
 
 ## Autor
 Jardheson Oliveira
+=======
+
+>>>>>>> 0b6b8ba1ca84e64fa2aa3232b586e5fd60b8692d
